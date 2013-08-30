@@ -1,6 +1,4 @@
 
-
-
 uniform sampler2DRect offsetTexture;
 uniform sampler2DRect sourceTexture;
 uniform float height;
